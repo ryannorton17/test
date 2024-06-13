@@ -1,0 +1,15 @@
+.gradient-background {
+    background: linear-gradient(300deg, #ffffff, #6076f4, #bfe7fc);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.bi {
+    margin-left: 5px}
+
+
+#ryan.card {
+    box-shadow: 10px 10px;
+    color: black;
+    opacity: 75;
+}
